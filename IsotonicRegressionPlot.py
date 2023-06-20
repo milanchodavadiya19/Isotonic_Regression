@@ -19,6 +19,7 @@ target values are computed by the isotonic non-parametric fit.
 
 """
 
+
 # Author: Nelle Varoquaux <nelle.varoquaux@gmail.com>
 #         Alexandre Gramfort <alexandre.gramfort@inria.fr>
 # License: BSD
